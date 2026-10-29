@@ -1,0 +1,29 @@
+{
+  "name": "com.vectorviral.vvtween",
+  "version": "1.0.0",
+  "displayName": "VVTween - Lightweight Unity Tweening Engine",
+  "description": "Zero-dependency, high-performance, lightweight tweening and animation library for Unity. 100% white-label, free and open-source under MIT License.",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "tween",
+    "animation",
+    "ui",
+    "transform",
+    "coroutine",
+    "vectorviral",
+    "vvtween",
+    "free",
+    "mit"
+  ],
+  "author": {
+    "name": "VECTOR VIRAL (SMC-PRIVATE) LIMITED",
+    "email": "contact@vectorviral.com",
+    "url": "https://vectorviral.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VectorViral/VVTween.git"
+  }
+}
